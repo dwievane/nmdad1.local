@@ -88,3 +88,42 @@ footer{
   @extend .link_heart;
   color:red;
 }
+//spinner
+.loader {
+  border: 22px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 22px solid $oranje;
+  border-right: 22px solid $lichtgrijs;
+  border-bottom: 22px solid $oranje;
+  border-left: 22px solid $lichtgrijs;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin:auto;
+}
+.loader2{
+  @extend .loader;
+  width: 25px;
+  height: 25px;
+  
+  border-top: 5px solid $oranje;
+  border-right: 5px solid $lichtgrijs;
+  border-bottom: 5px solid $oranje;
+  border-left: 5px solid $lichtgrijs;
+}
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

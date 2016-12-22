@@ -6,7 +6,7 @@ permalink: /home/favorieten/
 <dl>
     <div class="container">
         <section class="sidebar">
-        <!--content-->
+             <div class="loader"></div>
         </section>
     </div>
 </dl>

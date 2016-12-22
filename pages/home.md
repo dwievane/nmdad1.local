@@ -15,7 +15,7 @@ permalink: /home/
 <div class="row div-block_tosee-even">
     <div class="col-xs-12">
         <h4 class="text-center">HISTORY</h4>
-        <p class="home_tekst-history">Archaeological research has proven that the earliest signs of human settlement in the Ghent area date back to prehistoric times. However, it was only during the Roman period that a community of note began to grow near the confluence of the two rivers Scheldt and Leie. In the Middle Ages, the Abbey of Saint Peter (later the Abbey of Saint Bavo) was founded and a 'portus' created for commercial activity (It is thought that the Flemish name 'Gent' derives from the Celtic 'Ganda', meaning ‘confluence’). <a href="http://www.visitflanders.com/en/destinations/ghent/history/" class="a_readmore">Read more</a></p>
+        <p class="home_tekst-history">Archaeological research has proven that the earliest signs of human settlement in the Ghent area date back to prehistoric times. However, it was only during the Roman period that a community of note began to grow near the confluence of the two rivers Scheldt and Leie. In the Middle Ages, the Abbey of Saint Peter (later the Abbey of Saint Bavo) was founded and a 'portus' created for commercial activity (It is thought that the Flemish name 'Gent' derives from the Celtic 'Ganda', meaning ‘confluence’). <a href="http://www.visitflanders.com/en/destinations/ghent/history/" class="a_readmore" target="_blank">Read more</a></p>
     </div>
 </div><!--end row-->
 
@@ -28,6 +28,7 @@ permalink: /home/
 
 <div class="col-xs-12 col-md-4 div-block_tosee-even">
     <section class="sidebar">
+     <div class="loader2"></div>
         <!-- JS content weerbericht -->
     </section>
 </div>

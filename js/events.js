@@ -15,9 +15,7 @@
         if(xhr.status == 200) {
             var data = (!xhr.responseType)?JSON.parse(xhr.response):xhr.response;
             var id = 1;
-
             var tempStr = '';
-            
             for(i=0; i<20; i++) {
               var title = data[i].title;
               var contact = data[i].contact[0];
@@ -41,9 +39,7 @@
                     tempStr += '<a class="link_heart" id="myDIV'+[i]+'" alt="Add to favorites" title="Add to favorites"  onclick="myFunction('+[i]+')" ><span class="glyphicon glyphicon-heart-empty"></span></a>';
                     tempStr += '</div>';/* einde row */     
             }else{};
-            
             } 
-
             that.parentContainer.innerHTML = tempStr;
             } else {
             console.log('xhr.status');
@@ -54,23 +50,16 @@
         }
         xhr.send();
         };
-
     this.updateUI = function() {
-
     };
-
     this.toString = function() {
     return `ToerismeApp with id: ${this.id}`;
     };
-
     };
-
     var ww1 = new ToerismeApp(1, document.querySelector('.sidebar'));
     ww1.loadData();
     console.log(ww1.toString());   
-
 })();
- 
 function myFunction(id){
 document.getElementById("myDIV"+id).classList.toggle("link_heart-select");
 }

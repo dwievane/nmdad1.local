@@ -9,7 +9,7 @@ permalink: /home/parking/
 <div class="container">
     <div id="map"></div>
     <section class="sidebar">
-        <!-- JS content -->
+        <div class="loader"></div>
     </section>
 </div><!-- end container -->
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">

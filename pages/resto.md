@@ -6,6 +6,8 @@ permalink: /home/resto/
 
 <dl>
     <div class="container">
-        <section class="sidebar"></section>
+        <section class="sidebar">
+            <div class="loader"></div>
+        </section>
     </div>
 </dl>
