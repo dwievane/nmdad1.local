@@ -1,0 +1,118 @@
+---
+---
+
+$oranje: rgba(214,111,38,1);
+$lichtgrijs: rgba(201,208,217,1);
+$donkergrijs: rgba(144,157,170,1);
+
+body{
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+h4{
+  font-family: 'Merriweather', serif;
+}
+nav{
+  background-color: $oranje;
+}
+//afbeeldingen
+.tosee-img_1{
+  background-color: white;
+  background-image: url('../../images/spots.jpeg');
+}
+.tosee-img_2{
+  background-color: white;
+  background-image: url("../../images/event.jpg");
+}
+.tosee-img_3{
+  background-color: white;
+  background-image: url("../../images/fille.jpg");
+}
+.tosee-img_4{
+  background-color: white;
+  background-image: url("../../images/parking.jpg");
+}
+.tosee-img_1,.tosee-img_2,.tosee-img_3,.tosee-img_4{
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 2px 2px 5px #000;
+}
+.a-afbeelding{
+  text-align: center;
+  line-height: 200px;
+  color: white;
+  font-weight: 700;
+}
+//
+.div-block_tosee-odd{
+  background-color: $donkergrijs;
+}
+.div-block_tosee-even{
+  background-color: $lichtgrijs;
+}
+.div-block_tosee-odd, .div-block_tosee-even{
+padding-bottom: 20px;
+}
+.home_tekst-history{
+  padding:10px;
+}
+
+//to eat
+.a-toeat{
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+  color:black;  
+  font-size: 18px;
+}
+a:hover{
+  text-decoration: none;
+  color:$lichtgrijs;
+}
+.a_readmore{
+  color:$donkergrijs;
+}
+.a_readmore:hover{
+  color:black;
+}
+@media only screen and (min-width: 992px) {
+  .img_desktop-resto{
+    height: 400px;
+    width: auto;
+    background: url('../../images/resto/10.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 5px #000;
+}}
+
+//weather
+.weather_temp{
+  font-size: 64px;
+}
+.sidebar{
+  padding-top:20px;
+}
+//footer
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px;
+    background-color: $donkergrijs;
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow:hidden;
+    background-color: black;
+    color:white;
+}
+footer > p > a{
+  //text-decoration: none;
+  color: $lichtgrijs;
+}

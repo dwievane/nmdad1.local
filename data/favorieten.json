@@ -1,0 +1,22 @@
+[
+  { 
+    "id":1, 
+    "title": "Lichtfestival Gent",
+    "image": "https://visit.gent.be/sites/default/files/images-event/bisschopshuis_-_theorizz_-_horta_-_beeld.jpg"
+  },
+  {
+    "id":2, 
+    "title": "Casa de Las Tapas",
+    "image": "/images/resto/8.jpeg"
+  },
+  {
+    "id":3, 
+    "title": "Gent Jazz Festival",
+    "image": "https://visit.gent.be/sites/default/files/images-event/gentjazz_stephane-belmondo.jpg"
+  },
+  {
+    "id":4, 
+    "title": "De Centrale wereldrestaurant",
+    "image": "/images/resto/11.jpeg"
+  }
+]

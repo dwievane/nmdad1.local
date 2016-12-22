@@ -1,0 +1,41 @@
+---
+---
+$oranje: rgba(214,111,38,1);
+$lichtblauw: rgba(201, 208, 217, 1);
+$donkerblauw: #909DAA;
+
+body{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+.img_fav-1, .img_fav-2, .img_fav-3, .img_fav-4{
+    height: 100px;
+    margin-bottom: 2px; 
+}
+.img_fav-1{
+    background-color: red;
+}
+.img_fav-2{
+    background-color: grey
+}
+.img_fav-3{
+    background-color: green
+}
+.img_fav-4{
+    background-color: blue;
+}
+
+.view_on{
+    color: yellow;
+}
+
+.view_off{
+    visibility: hidden;
+}
+.div_image{
+    height: 150px;
+    width: auto;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

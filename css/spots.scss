@@ -1,0 +1,32 @@
+---
+---
+$oranje: rgba(214,111,38,1);
+$lichtblauw: rgba(201, 208, 217, 1);
+$donkerblauw: mix(white,#909DAA, 25%);
+
+body{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+a{
+    color:black;
+}
+a:hover{
+    color:white;
+}
+.image_spots{
+    width: 200px;
+    height: 150px;
+}
+.row_spots, .row_spots2{
+    padding: 10px;
+    margin-bottom: 2px;
+    background-color: $lichtblauw;
+}
+.row_spots:nth-child(odd){
+    background-color: $donkerblauw;
+}
+
+.div_image{
+    height: 150px;
+    width: auto;
+}

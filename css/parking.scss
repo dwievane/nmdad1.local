@@ -1,0 +1,18 @@
+---
+---
+
+$oranje: rgba(214,111,38,1);
+$lichtgrijs: rgba(201,208,217,1);
+$donkergrijs: mix(white,#909DAA, 25%);
+
+body{
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+.row_parking{
+  padding: 20px 10px 20px 10px;
+  margin-bottom: 2px;
+   background-color: $lichtgrijs;
+}
+.row_parking:nth-child(odd){
+  background-color: $donkergrijs;
+}

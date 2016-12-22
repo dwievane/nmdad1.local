@@ -1,0 +1,90 @@
+---
+---
+$oranje: rgba(214,111,38,1);
+$lichtgrijs: rgba(201,208,217,1);
+$donkergrijs: rgba(144,157,170,1);
+
+//login
+.logo_login{
+  display: block;
+  margin: auto;
+
+  height: 200px;
+  width: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+//head
+h1{
+  text-align: center;
+  display:inline;
+  align-content: center;
+  margin: auto;
+}
+.login_span{
+  margin-left: 35%;
+}
+//nav
+h1{
+  text-align: center;
+}
+nav{
+  background-color: $oranje;
+}
+.nav_link{
+  color:black;
+}
+.nav_link:hover{
+  color:$lichtgrijs;
+}
+//footer
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px;
+    background-color: ghostwhite;
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow:hidden;
+    background-color: black;
+    color:white;
+    padding-top:10px;
+}
+footer{
+  a{
+    color: $lichtgrijs;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: none;
+  }
+}
+
+//googlemaps
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+//heart in lijsten
+.link_heart{
+  color: $oranje;
+  font-size: 2rem;
+  margin-left: 15px;
+  cursor:pointer;
+}
+.link_heart:hover{
+  color: white;
+  @extend .link_heart;
+}
+.link_heart-select{
+  @extend .link_heart;
+  color:red;
+}
