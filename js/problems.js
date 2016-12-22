@@ -38,7 +38,7 @@
             tempStr += '<h4>' + subtype + '</h4>';
             tempStr += '<div class="col-xs-6">straat: ' + street + '</div>';
             tempStr += '<div class="col-xs-6 text-right">score ' + reliability + ' / 6' + '</div>';
-            tempStr += '<div class"col-xs-12"><p>Boodschap: ' + message + '</p></div>';
+            tempStr += '<div class="col-xs-12"><p>Boodschap: ' + message + '</p></div>';
             tempStr += '</div>';//end row
             }//end for loop
 

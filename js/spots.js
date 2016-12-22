@@ -1,7 +1,7 @@
 ;(function() {
 
   function SpotsApp(id, parentContainer) {
-    this.API_URL = 'http://datatank.stad.gent/4/toerisme/visitgentspots.json';
+    this.API_URL = '../../data/visitgentspots.json';
     this.id = id;
     this.parentContainer = parentContainer;
 
@@ -36,7 +36,7 @@
                 if(dubbele_id.indexOf(id) ==-1){
                     dubbele_id.push(id);
                     tempStr += '<div class="row row_spots">';
-                    tempStr += '<a href="http://' + website  +'">';
+                    tempStr += '<a href="http://' + website  +'" target="_blank">';
                     tempStr += '<div class="col-xs-6"><div class="div_image" style="background: url(' + images +') no-repeat center ;background-size:cover;"></div></div>';
                     tempStr += '<div class="col-xs-6"><h4>' + title + '</h4>';
                     tempStr += '<p> Adres: ' + contact.street + ' nr '  + contact.number + '<br> Stad: ' + contact.city + '</p>';
@@ -59,7 +59,7 @@
         xhr.onerror = function() {
         console.log(xhr.status);
         }
-        xhr.send();
+xhr.send();
         };
 
     this.updateUI = function() {

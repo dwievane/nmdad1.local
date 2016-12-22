@@ -3,8 +3,6 @@ layout : home
 title: "Home"
 permalink: /home/
 ---
-<dl>
-
 <div class="container">
     <div class="row div-block_tosee-odd">
     <div class="col-xs-12">
@@ -40,4 +38,3 @@ permalink: /home/
 </div><!--end row-->
 
 </div><!--end container-->
-</dl>
