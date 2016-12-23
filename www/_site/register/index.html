@@ -1,0 +1,74 @@
+<!doctype HTML>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Register | NMDAD-I</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/register.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <!-- favicons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="../../favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../../favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../../favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../../favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../../favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../../favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../../favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../../favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="../../favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="../../favicons/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="../../favicons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="../../favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="../../favicons/manifest.json">
+  <link rel="mask-icon" href="../../favicons/safari-pinned-tab.svg" color="#d66f26">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="msapplication-TileImage" content="../../favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+    <main id="main" role="main">
+    <dl>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+        <img src="../images/logo_kleur_hr.png" class="logo_login" alt="" />            
+            <form id="register-form" class="form-signin">
+                <input id="name1" type="text" class="form-control" placeholder="Login naam" />
+                <br />
+                <input id="pw" type="password" class="form-control" placeholder="Wachtwoord" />
+                <br />
+                <input id="rgstr_btn" type="submit" name="register" value="Register" class="btn btn-primary" onclick="store()" />
+            </form>
+            <br />
+            <form id="login-form"> 
+                <input id="userName" type="text" class="form-control" placeholder="Login naam" value="" />
+                <br />
+                <input id="userPw" type="password" class="form-control" placeholder="Wachtwoord" value="" />
+                <br />
+                <input id="login_btn" type="submit" value="Login" class="btn btn-primary" onclick="check()" />
+                <br />
+                <p><a href="/home/">Continue to site</a></p>
+            </form>
+        </div>
+    </div>
+</div>
+</dl>
+
+    </main>
+    <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <p>All rights reserved. Copyright Groep 10, Anke Braeckman en Dwiezel Van Eeckhout
+                <a href="../../images/sitemap.pdf">Sitemap</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+    <script src="../../js/utilities.js"></script>
+<script src="../../js/register.js"></script>
+</body>
+</html>

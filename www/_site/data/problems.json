@@ -1,0 +1,1076 @@
+{
+  "result": [
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Wondelgem",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "uuid": "34c74a79-6bfe-318d-912f-5b570655ef0f",
+        "roadType": 6,
+        "magvar": 45,
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "R4",
+        "location": {
+          "x": 3.712649,
+          "y": 51.099624
+        },
+        "pubMillis": 1481812586657
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: R4",
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "R4",
+        "city": "Wondelgem",
+        "longitude": 3.712649,
+        "latitude": 51.099624,
+        "reliability": 5,
+        "pubMillis": 1481812586657
+      },
+      "timestamp": 1481812586657
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Gent",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "uuid": "efd4b74c-39b2-3c91-b656-68c1909dafa0",
+        "roadType": 6,
+        "magvar": 257,
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "N9 - Nieuwevaart",
+        "location": {
+          "x": 3.712481,
+          "y": 51.066351
+        },
+        "pubMillis": 1481811972953
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: N9 - Nieuwevaart",
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "N9 - Nieuwevaart",
+        "city": "Gent",
+        "longitude": 3.712481,
+        "latitude": 51.066351,
+        "reliability": 5,
+        "pubMillis": 1481811972953
+      },
+      "timestamp": 1481811972953
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "WEATHERHAZARD",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 3,
+      "sourcePayload": {
+        "country": "BE",
+        "roadType": 3,
+        "magvar": 30,
+        "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+        "street": "E17 - A14",
+        "reportRating": 1,
+        "confidence": 0,
+        "reliability": 5,
+        "location": {
+          "x": 3.71406,
+          "y": 50.995429
+        },
+        "type": "WEATHERHAZARD",
+        "uuid": "0b983fa0-d6b2-32d4-8d32-db09bd82df15",
+        "pubMillis": 1481811899638
+      },
+      "payload": {
+        "message": "Er is een obstakel gemeld op de volgende locatie: E17 - A14",
+        "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+        "street": "E17 - A14",
+        "longitude": 3.71406,
+        "latitude": 50.995429,
+        "reliability": 5,
+        "pubMillis": 1481811899638
+      },
+      "timestamp": 1481811899638
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Gent",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 6,
+        "type": "JAM",
+        "uuid": "0d46ce90-ad61-38d7-88d3-1abd117cc921",
+        "roadType": 6,
+        "magvar": 348,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R40 - Kasteellaan",
+        "location": {
+          "x": 3.738933,
+          "y": 51.055855
+        },
+        "pubMillis": 1481811848811
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: R40 - Kasteellaan",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R40 - Kasteellaan",
+        "city": "Gent",
+        "longitude": 3.738933,
+        "latitude": 51.055855,
+        "reliability": 6,
+        "pubMillis": 1481811848811
+      },
+      "timestamp": 1481811848811
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "sourcePayload": {
+        "country": "BE",
+        "magvar": 169,
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "city": "Gent",
+        "street": "Sint-Pietersnieuwstraat",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "location": {
+          "x": 3.727133,
+          "y": 51.048569
+        },
+        "type": "JAM",
+        "uuid": "20b160e7-6335-3989-8463-b7a7b765f004",
+        "pubMillis": 1481811349171
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: Sint-Pietersnieuwstraat",
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "Sint-Pietersnieuwstraat",
+        "city": "Gent",
+        "longitude": 3.727133,
+        "latitude": 51.048569,
+        "reliability": 5,
+        "pubMillis": 1481811349171
+      },
+      "timestamp": 1481811349171
+    },
+    {
+      "tweet": {
+        "status": "De volgende parkeergarage(s) in #Gent zijn volzet: P Ramen&CR #auto",
+        "long": 3.7186,
+        "lat": 51.05367
+      },
+      "message": "De volgende parkeergarage(s) in #Gent zijn volzet: P Ramen&CR #auto",
+      "objectsToStore": [
+        {
+          "alarmName": "Parking",
+          "type": "parking",
+          "source": "data.stad.gent",
+          "transport": "car",
+          "sourcePayload": {
+            "id": 18408,
+            "lastModifiedDate": "2016-04-12T12:58:15.673Z",
+            "name": "P07 Sint-Michiels",
+            "description": "Ramen",
+            "latitude": 51.05367,
+            "longitude": 3.7186,
+            "address": "Sint-Michielsplein 8\n9000 Gent",
+            "contactInfo": "Tel.: 09 266 29 20",
+            "city": {
+              "id": 1004,
+              "name": "Gent"
+            },
+            "parkingServer": {
+              "id": 1005,
+              "name": "ITG Gent"
+            },
+            "suggestedFreeThreshold": 4,
+            "suggestedFullThreshold": 4,
+            "capacityRounding": 1,
+            "totalCapacity": 450,
+            "openingTimes": [
+              {
+                "days": [
+                  "MONDAY",
+                  "TUESDAY",
+                  "WEDNESDAY",
+                  "THURSDAY",
+                  "FRIDAY",
+                  "SATURDAY",
+                  "SUNDAY"
+                ],
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ],
+            "parkingStatus": {
+              "availableCapacity": 65,
+              "totalCapacity": 450,
+              "open": true,
+              "suggestedCapacity": "ACTUAL",
+              "activeRoute": "",
+              "lastModifiedDate": "15/12/2016 15:12:00"
+            },
+            "availCapPercentage": 0.14444444444444
+          },
+          "payload": {
+            "message": "Parking Ramen is volzet",
+            "totalCapacity": 450,
+            "availableCapacity": 65,
+            "suggestedCapacity": "ACTUAL",
+            "longitude": 3.7186,
+            "latitude": 51.05367
+          }
+        }
+      ],
+      "collectedTime": 1481810651656,
+      "state": "done",
+      "timestamp": 1481811197105
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 2,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Gent",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "uuid": "d5a96abc-2e09-321c-ad67-f42b85ccddec",
+        "roadType": 2,
+        "magvar": 164,
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "Kortedagsteeg",
+        "location": {
+          "x": 3.726604,
+          "y": 51.049667
+        },
+        "pubMillis": 1481811161469
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: Kortedagsteeg",
+        "subtype": "JAM_STAND_STILL_TRAFFIC",
+        "street": "Kortedagsteeg",
+        "city": "Gent",
+        "longitude": 3.726604,
+        "latitude": 51.049667,
+        "reliability": 5,
+        "pubMillis": 1481811161469
+      },
+      "timestamp": 1481811161469
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 4,
+      "sourcePayload": {
+        "country": "BE",
+        "roadType": 4,
+        "magvar": 218,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "location": {
+          "x": 3.735828,
+          "y": 51.024535
+        },
+        "type": "JAM",
+        "uuid": "acc72e20-a8ec-3b37-a84f-1dfcb73a4c71",
+        "pubMillis": 1481811157331
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: ",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "longitude": 3.735828,
+        "latitude": 51.024535,
+        "reliability": 5,
+        "pubMillis": 1481811157331
+      },
+      "timestamp": 1481811157331
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "sourcePayload": {
+        "country": "BE",
+        "magvar": 166,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "city": "Gent",
+        "street": "Kortedagsteeg",
+        "reportRating": 2,
+        "confidence": 0,
+        "reliability": 5,
+        "location": {
+          "x": 3.726568,
+          "y": 51.049753
+        },
+        "type": "JAM",
+        "uuid": "f6a96220-58e1-3290-9725-f1eabb718fd7",
+        "pubMillis": 1481811107757
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: Kortedagsteeg",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "Kortedagsteeg",
+        "city": "Gent",
+        "longitude": 3.726568,
+        "latitude": 51.049753,
+        "reliability": 5,
+        "pubMillis": 1481811107757
+      },
+      "timestamp": 1481811107757
+    },
+    {
+      "tweet": {
+        "status": "De volgende parkeergarage(s) in #Gent zijn volzet: P Vrijdagmarkt,P Ramen&CR #auto",
+        "long": 3.718598,
+        "lat": 51.053447
+      },
+      "message": "De volgende parkeergarage(s) in #Gent zijn volzet: P Vrijdagmarkt,P Ramen&CR #auto",
+      "objectsToStore": [
+        {
+          "alarmName": "Parking",
+          "type": "parking",
+          "source": "data.stad.gent",
+          "transport": "car",
+          "sourcePayload": {
+            "id": 18408,
+            "lastModifiedDate": "2016-04-12T12:58:15.673Z",
+            "name": "P07 Sint-Michiels",
+            "description": "Ramen",
+            "latitude": 51.05367,
+            "longitude": 3.7186,
+            "address": "Sint-Michielsplein 8\n9000 Gent",
+            "contactInfo": "Tel.: 09 266 29 20",
+            "city": {
+              "id": 1004,
+              "name": "Gent"
+            },
+            "parkingServer": {
+              "id": 1005,
+              "name": "ITG Gent"
+            },
+            "suggestedFreeThreshold": 4,
+            "suggestedFullThreshold": 4,
+            "capacityRounding": 1,
+            "totalCapacity": 450,
+            "openingTimes": [
+              {
+                "days": [
+                  "MONDAY",
+                  "TUESDAY",
+                  "WEDNESDAY",
+                  "THURSDAY",
+                  "FRIDAY",
+                  "SATURDAY",
+                  "SUNDAY"
+                ],
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ],
+            "parkingStatus": {
+              "availableCapacity": 54,
+              "totalCapacity": 450,
+              "open": true,
+              "suggestedCapacity": "ACTUAL",
+              "activeRoute": "",
+              "lastModifiedDate": "15/12/2016 14:57:00"
+            },
+            "availCapPercentage": 0.12
+          },
+          "payload": {
+            "message": "Parking Vrijdagmarkt is volzet",
+            "totalCapacity": 450,
+            "availableCapacity": 54,
+            "suggestedCapacity": "ACTUAL",
+            "longitude": 3.7186,
+            "latitude": 51.05367
+          }
+        },
+        {
+          "alarmName": "Parking",
+          "type": "parking",
+          "source": "data.stad.gent",
+          "transport": "car",
+          "sourcePayload": {
+            "id": 18408,
+            "lastModifiedDate": "2016-04-12T12:58:15.673Z",
+            "name": "P07 Sint-Michiels",
+            "description": "Ramen",
+            "latitude": 51.05367,
+            "longitude": 3.7186,
+            "address": "Sint-Michielsplein 8\n9000 Gent",
+            "contactInfo": "Tel.: 09 266 29 20",
+            "city": {
+              "id": 1004,
+              "name": "Gent"
+            },
+            "parkingServer": {
+              "id": 1005,
+              "name": "ITG Gent"
+            },
+            "suggestedFreeThreshold": 4,
+            "suggestedFullThreshold": 4,
+            "capacityRounding": 1,
+            "totalCapacity": 450,
+            "openingTimes": [
+              {
+                "days": [
+                  "MONDAY",
+                  "TUESDAY",
+                  "WEDNESDAY",
+                  "THURSDAY",
+                  "FRIDAY",
+                  "SATURDAY",
+                  "SUNDAY"
+                ],
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ],
+            "parkingStatus": {
+              "availableCapacity": 54,
+              "totalCapacity": 450,
+              "open": true,
+              "suggestedCapacity": "ACTUAL",
+              "activeRoute": "",
+              "lastModifiedDate": "15/12/2016 14:57:00"
+            },
+            "availCapPercentage": 0.12
+          },
+          "payload": {
+            "message": "Parking Ramen is volzet",
+            "totalCapacity": 450,
+            "availableCapacity": 54,
+            "suggestedCapacity": "ACTUAL",
+            "longitude": 3.7186,
+            "latitude": 51.05367
+          }
+        }
+      ],
+      "collectedTime": 1481809751112,
+      "state": "done",
+      "timestamp": 1481810296383
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 7,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Gent",
+        "reportRating": 0,
+        "confidence": 0,
+        "reliability": 5,
+        "type": "JAM",
+        "uuid": "f073186d-6361-39da-81cf-6c2d77775561",
+        "roadType": 7,
+        "magvar": 334,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "Duinkerkeplein",
+        "location": {
+          "x": 3.731462,
+          "y": 51.079877
+        },
+        "pubMillis": 1481809931829
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: Duinkerkeplein",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "Duinkerkeplein",
+        "city": "Gent",
+        "longitude": 3.731462,
+        "latitude": 51.079877,
+        "reliability": 5,
+        "pubMillis": 1481809931829
+      },
+      "timestamp": 1481809931829
+    },
+    {
+      "alarmName": "Waze Alerts",
+      "type": "JAM",
+      "source": "Waze",
+      "transport": "car",
+      "roadType": 6,
+      "sourcePayload": {
+        "country": "BE",
+        "city": "Gent",
+        "reportRating": 1,
+        "confidence": 1,
+        "reliability": 7,
+        "type": "JAM",
+        "uuid": "34226dbb-c70c-3af4-9afe-d10c3e896a8d",
+        "roadType": 6,
+        "magvar": 9,
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R4 - John Kennedylaan",
+        "location": {
+          "x": 3.75703,
+          "y": 51.099493
+        },
+        "pubMillis": 1481809686721
+      },
+      "payload": {
+        "message": "Er is een file gemeld op de volgende locatie: R4 - John Kennedylaan",
+        "subtype": "JAM_HEAVY_TRAFFIC",
+        "street": "R4 - John Kennedylaan",
+        "city": "Gent",
+        "longitude": 3.75703,
+        "latitude": 51.099493,
+        "reliability": 7,
+        "pubMillis": 1481809686721
+      },
+      "timestamp": 1481809686721
+    },
+    {
+      "tweet": {
+        "status": "De volgende parkeergarage(s) in #Gent zijn volzet: P Vrijdagmarkt,P Ramen&CR #auto",
+        "long": 3.718598,
+        "lat": 51.053447
+      },
+      "message": "De volgende parkeergarage(s) in #Gent zijn volzet: P Vrijdagmarkt,P Ramen&CR #auto",
+      "objectsToStore": [
+        {
+          "alarmName": "Parking",
+          "type": "parking",
+          "source": "data.stad.gent",
+          "transport": "car",
+          "sourcePayload": {
+            "id": 18408,
+            "lastModifiedDate": "2016-04-12T12:58:15.673Z",
+            "name": "P07 Sint-Michiels",
+            "description": "Ramen",
+            "latitude": 51.05367,
+            "longitude": 3.7186,
+            "address": "Sint-Michielsplein 8\n9000 Gent",
+            "contactInfo": "Tel.: 09 266 29 20",
+            "city": {
+              "id": 1004,
+              "name": "Gent"
+            },
+            "parkingServer": {
+              "id": 1005,
+              "name": "ITG Gent"
+            },
+            "suggestedFreeThreshold": 4,
+            "suggestedFullThreshold": 4,
+            "capacityRounding": 1,
+            "totalCapacity": 450,
+            "openingTimes": [
+              {
+                "days": [
+                  "MONDAY",
+                  "TUESDAY",
+                  "WEDNESDAY",
+                  "THURSDAY",
+                  "FRIDAY",
+                  "SATURDAY",
+                  "SUNDAY"
+                ],
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ],
+            "parkingStatus": {
+              "availableCapacity": 48,
+              "totalCapacity": 450,
+              "open": true,
+              "suggestedCapacity": "ACTUAL",
+              "activeRoute": "",
+              "lastModifiedDate": "15/12/2016 14:42:00"
+            },
+            "availCapPercentage": 0.10666666666667
+          },
+          "payload": {
+            "message": "Parking Vrijdagmarkt is volzet",
+            "totalCapacity": 450,
+            "availableCapacity": 48,
+            "suggestedCapacity": "ACTUAL",
+            "longitude": 3.7186,
+            "latitude": 51.05367
+          }
+        },
+        {
+          "alarmName": "Parking",
+          "type": "parking",
+          "source": "data.stad.gent",
+          "transport": "car",
+          "sourcePayload": {
+            "id": 18408,
+            "lastModifiedDate": "2016-04-12T12:58:15.673Z",
+            "name": "P07 Sint-Michiels",
+            "description": "Ramen",
+            "latitude": 51.05367,
+            "longitude": 3.7186,
+            "address": "Sint-Michielsplein 8\n9000 Gent",
+            "contactInfo": "Tel.: 09 266 29 20",
+            "city": {
+              "id": 1004,
+              "name": "Gent"
+            },
+            "parkingServer": {
+              "id": 1005,
+              "name": "ITG Gent"
+            },
+            "suggestedFreeThreshold": 4,
+            "suggestedFullThreshold": 4,
+            "capacityRounding": 1,
+            "totalCapacity": 450,
+            "openingTimes": [
+              {
+                "days": [
+                  "MONDAY",
+                  "TUESDAY",
+                  "WEDNESDAY",
+                  "THURSDAY",
+                  "FRIDAY",
+                  "SATURDAY",
+                  "SUNDAY"
+                ],
+                "from": "00:00",
+                "to": "23:59"
+              }
+            ],
+            "parkingStatus": {
+              "availableCapacity": 48,
+              "totalCapacity": 450,
+              "open": true,
+              "suggestedCapacity": "ACTUAL",
+              "activeRoute": "",
+              "lastModifiedDate": "15/12/2016 14:42:00"
+            },
+            "availCapPercentage": 0.10666666666667
+          },
+          "payload": {
+            "message": "Parking Ramen is volzet",
+            "totalCapacity": 450,
+            "availableCapacity": 48,
+            "suggestedCapacity": "ACTUAL",
+            "longitude": 3.7186,
+            "latitude": 51.05367
+          }
+        }
+      ],
+      "collectedTime": 1481808850439,
+      "state": "done",
+      "timestamp": 1481809395856
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "944536511",
+        "type_id": "122",
+        "lat": 51.189,
+        "lng": 3.84917,
+        "heading": "286",
+        "speed_limit": "120",
+        "road_name": "E34",
+        "first_declaration": "2016-12-15 14:35:00",
+        "last_confirmation": "2016-12-15 15:37:59",
+        "confirmations": "26",
+        "length": "2999",
+        "zones": false,
+        "vr": false,
+        "type_lbl": "Retrecissement"
+      },
+      "payload": {
+        "id": "944536511",
+        "latitude": 51.189,
+        "longitude": 3.84917,
+        "speed_limit": "120",
+        "road_name": "E34",
+        "first_declaration": "2016-12-15 14:35:00",
+        "last_confirmation": "2016-12-15 15:37:59",
+        "confirmations": "26",
+        "length": "2999",
+        "type_lbl": "Retrecissement"
+      },
+      "timestamp": 1481809079000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "584906001",
+        "type_id": "127",
+        "lat": 50.98959,
+        "lng": 3.7463,
+        "heading": "4",
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2016-12-15 15:37:24",
+        "last_confirmation": "2016-12-15 15:37:46",
+        "confirmations": "0",
+        "length": "679",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 50.995614304888,
+              "longitude": 3.7448559846666
+            },
+            "point_2": {
+              "latitude": 50.99564569076,
+              "longitude": 3.7462840158163
+            },
+            "point_3": {
+              "latitude": 50.99444569076,
+              "longitude": 3.7463339973527
+            },
+            "point_4": {
+              "latitude": 50.994414304888,
+              "longitude": 3.7449060031302
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 50.99497369076,
+                "longitude": 3.7463120054767
+              },
+              "point_2": {
+                "latitude": 50.994718,
+                "longitude": 3.745608
+              },
+              "point_3": {
+                "latitude": 50.994942304888,
+                "longitude": 3.7448839950062
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 50.99536969076,
+                "longitude": 3.7462955115697
+              },
+              "point_2": {
+                "latitude": 50.995114,
+                "longitude": 3.7455915
+              },
+              "point_3": {
+                "latitude": 50.995338304888,
+                "longitude": 3.7448674889133
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 50.994418529912,
+              "longitude": 3.7448767851394
+            },
+            "point_2": {
+              "latitude": 50.994681466103,
+              "longitude": 3.7462432187317
+            },
+            "point_3": {
+              "latitude": 50.992771466103,
+              "longitude": 3.747123190613
+            },
+            "point_4": {
+              "latitude": 50.992508529912,
+              "longitude": 3.7457568132577
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 50.993611866103,
+                "longitude": 3.7467360029852
+              },
+              "point_2": {
+                "latitude": 50.9930984,
+                "longitude": 3.7462288
+              },
+              "point_3": {
+                "latitude": 50.993348929912,
+                "longitude": 3.7453696008857
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 50.994242166103,
+                "longitude": 3.7464456122644
+              },
+              "point_2": {
+                "latitude": 50.9937287,
+                "longitude": 3.7459384
+              },
+              "point_3": {
+                "latitude": 50.993979229912,
+                "longitude": 3.7450791916066
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 50.992797845485,
+              "longitude": 3.7457357016095
+            },
+            "point_2": {
+              "latitude": 50.992782150159,
+              "longitude": 3.7471642981489
+            },
+            "point_3": {
+              "latitude": 50.989582150159,
+              "longitude": 3.7470142489012
+            },
+            "point_4": {
+              "latitude": 50.989597845486,
+              "longitude": 3.7455857508573
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 50.990990150159,
+                "longitude": 3.7470802705702
+              },
+              "point_2": {
+                "latitude": 50.990358,
+                "longitude": 3.746336
+              },
+              "point_3": {
+                "latitude": 50.991005845486,
+                "longitude": 3.7456517291883
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 50.992046150159,
+                "longitude": 3.7471297868219
+              },
+              "point_2": {
+                "latitude": 50.991414,
+                "longitude": 3.7463855
+              },
+              "point_3": {
+                "latitude": 50.992061845485,
+                "longitude": 3.7457012129365
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "584906001",
+        "latitude": 50.98959,
+        "longitude": 3.7463,
+        "speed_limit": "50",
+        "road_name": "N444",
+        "first_declaration": "2016-12-15 15:37:24",
+        "last_confirmation": "2016-12-15 15:37:46",
+        "confirmations": "0",
+        "length": "679",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1481809066000
+    },
+    {
+      "alarmName": "Coyote Alerts",
+      "type": "alert",
+      "source": "Coyote",
+      "transport": "car",
+      "sourcePayload": {
+        "id": "157811201",
+        "type_id": "127",
+        "lat": 51.07768,
+        "lng": 3.44779,
+        "heading": "342",
+        "speed_limit": "90",
+        "road_name": "N44",
+        "first_declaration": "2016-12-15 15:37:24",
+        "last_confirmation": "2016-12-15 15:37:40",
+        "confirmations": "0",
+        "length": "800",
+        "zones": [
+          {
+            "point_1": {
+              "latitude": 51.084156054666,
+              "longitude": 3.4428919123232
+            },
+            "point_2": {
+              "latitude": 51.084403941295,
+              "longitude": 3.4442680913641
+            },
+            "point_3": {
+              "latitude": 51.080993941296,
+              "longitude": 3.4457480406446
+            },
+            "point_4": {
+              "latitude": 51.080746054666,
+              "longitude": 3.444371963042
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.082494341295,
+                "longitude": 3.4450968629612
+              },
+              "point_2": {
+                "latitude": 51.0816884,
+                "longitude": 3.4447048
+              },
+              "point_3": {
+                "latitude": 51.082246454666,
+                "longitude": 3.4437207407257
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.083619641295,
+                "longitude": 3.4446084796986
+              },
+              "point_2": {
+                "latitude": 51.0828137,
+                "longitude": 3.4442164
+              },
+              "point_3": {
+                "latitude": 51.083371754666,
+                "longitude": 3.4432323239886
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.080756205018,
+              "longitude": 3.4443674012718
+            },
+            "point_2": {
+              "latitude": 51.081063791123,
+              "longitude": 3.4457126032
+            },
+            "point_3": {
+              "latitude": 51.079393791123,
+              "longitude": 3.4466625789216
+            },
+            "point_4": {
+              "latitude": 51.079086205018,
+              "longitude": 3.4453174255498
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.080128591123,
+                "longitude": 3.4462445896041
+              },
+              "point_2": {
+                "latitude": 51.0796408,
+                "longitude": 3.445762
+              },
+              "point_3": {
+                "latitude": 51.079821005018,
+                "longitude": 3.4448994148675
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.080679691123,
+                "longitude": 3.445931097616
+              },
+              "point_2": {
+                "latitude": 51.0801919,
+                "longitude": 3.4454485
+              },
+              "point_3": {
+                "latitude": 51.080372105018,
+                "longitude": 3.4445859068558
+              }
+            }
+          },
+          {
+            "point_1": {
+              "latitude": 51.07906938598,
+              "longitude": 3.445298385802
+            },
+            "point_2": {
+              "latitude": 51.079610611233,
+              "longitude": 3.4464416208849
+            },
+            "point_3": {
+              "latitude": 51.077950611233,
+              "longitude": 3.4483616003762
+            },
+            "point_4": {
+              "latitude": 51.07740938598,
+              "longitude": 3.44721840631
+            },
+            "arrow_1": {
+              "point_1": {
+                "latitude": 51.078681011233,
+                "longitude": 3.4475168094
+              },
+              "point_2": {
+                "latitude": 51.0780784,
+                "longitude": 3.4473292
+              },
+              "point_3": {
+                "latitude": 51.07813978598,
+                "longitude": 3.4463735972865
+              }
+            },
+            "arrow_2": {
+              "point_1": {
+                "latitude": 51.079228811233,
+                "longitude": 3.4468832161679
+              },
+              "point_2": {
+                "latitude": 51.0786262,
+                "longitude": 3.4466956
+              },
+              "point_3": {
+                "latitude": 51.07868758598,
+                "longitude": 3.4457399905188
+              }
+            }
+          }
+        ],
+        "vr": false,
+        "type_lbl": "Bouchon automatique"
+      },
+      "payload": {
+        "id": "157811201",
+        "latitude": 51.07768,
+        "longitude": 3.44779,
+        "speed_limit": "90",
+        "road_name": "N44",
+        "first_declaration": "2016-12-15 15:37:24",
+        "last_confirmation": "2016-12-15 15:37:40",
+        "confirmations": "0",
+        "length": "800",
+        "type_lbl": "Bouchon automatique"
+      },
+      "timestamp": 1481809060000
+    }
+  ]
+}
